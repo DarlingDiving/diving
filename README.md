@@ -28,7 +28,7 @@ on Dual-color spaces and an improved Xception;
 from：TCSVT2022 ;
 report date:22nd Jun ;
 paper:Nullhttps:https://ieeexplore.ieee.org/abstract/document/9552855
-code:github.com/imagecbj
+code:https://github.com/imagecbj
 
 
 paper:Noise doesn't Lie:towards Universal detection of deep Inpainting
