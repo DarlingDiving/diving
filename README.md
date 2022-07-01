@@ -22,3 +22,20 @@ from：wacv2022 ;
 report date:8th Jun ;
 paper :https://arxiv.org/pdf/2109.00911.pdf ;
 code :Null
+
+paper:A Robust GAN-Generated Face Detection Method baseed
+on Dual-color spaces and an improved Xception;
+from：TCSVT2022 ;
+report date:22nd Jun ;
+paper:Nullhttps://ieeexplore.ieee.org/abstract/document/9552855
+code:github.com/imagecbj
+
+
+paper:Noise doesn't Lie:towards Universal detection of deep Inpainting
+from：ijcai2021 ;
+report date:30th Jun ;
+paper:arxiv.org/pdf/2106.01532.pdf
+code:null
+
+
+
