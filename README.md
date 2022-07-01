@@ -37,5 +37,26 @@ report date:30th Jun ;
 paper:https://arxiv.org/pdf/2106.01532.pdf
 code:null
 
+paper:基于四元数的强泛化性GAN生成人脸检测算法. 
+from：计算机辅助设计与图形学学报 ;
+report date:never ;
+paper:https://d.wanfangdata.com.cn/periodical/jsjfzsjytxxxb202205008
+code:https://github.com/imagecbj
 
+paper: Distinguishing between natural and GAN-generated face images by combining global and local features
+from：Chinese Journal of Electronics ;
+report date:never ;
+paper:https://d.wanfangdata.com.cn/periodical/dianzxb-e202201007
+code:https://github.com/imagecbj
 
+paper:Detecting deepfake videos based on spatiotemporal attention and convolutional LSTM
+from：Information Sciences ;
+report date:never ;
+paper:https://www.sciencedirect.com/science/article/pii/S0020025522003504
+code:https://github.com/imagecbj
+
+paper:Locally GAN-generated face detection based on an improved Xception
+from：Information Sciences ;
+report date:never ;
+paper:https://www.sciencedirect.com/science/article/pii/S0020025521004527
+code:https://github.com/imagecbj
